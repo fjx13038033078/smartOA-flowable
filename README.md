@@ -1,9 +1,4 @@
 
-<h1 align="center" style="margin: 30px 0 30px; font-weight: bold;">RuoYi-Flowable</h1>
-<h4 align="center">基于RuoYi+Flowable 6.x的工作流管理平台</h4>
-<p align="center">
-	<a href="https://gitee.com/tony2y/RuoYi-flowable/stargazers"><img src="https://gitee.com/tony2y/RuoYi-flowable/badge/star.svg?theme=dark?theme=dark"></a>
-</p>
 
 ## 平台简介
 
