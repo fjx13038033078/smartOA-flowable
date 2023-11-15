@@ -10,7 +10,7 @@
 - 权限认证使用Jwt，支持多终端认证系统。
 - 支持加载动态权限菜单，多方式轻松权限控制.
 - 项目地址：[Gitee](https://gitee.com/tony2y/RuoYi-flowable.git)&nbsp;&nbsp;&nbsp;[Github](https://github.com/tony2y/RuoYi-flowable.git)
-- 
+  
 ## 内置功能
 
 - 在线流程设计器
