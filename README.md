@@ -15,9 +15,7 @@
 - 权限认证使用Jwt，支持多终端认证系统。
 - 支持加载动态权限菜单，多方式轻松权限控制.
 - 项目地址：[Gitee](https://gitee.com/tony2y/RuoYi-flowable.git)&nbsp;&nbsp;&nbsp;[Github](https://github.com/tony2y/RuoYi-flowable.git)
-- 阿里云折扣场：[点我进入](https://www.aliyun.com/activity/daily/bestoffer?userCode=q2b8atsa)，腾讯云秒杀场：[点我进入](https://curl.qcloud.com/W5KFkBG4)&nbsp;&nbsp;
-- 阿里云优惠券：[点我领取](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=q2b8atsa)，腾讯云优惠券：[点我领取](https://curl.qcloud.com/AacfyRxq)&nbsp;&nbsp;
-- 特别鸣谢：[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
+- 
 ## 内置功能
 
 - 在线流程设计器
